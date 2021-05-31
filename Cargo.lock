@@ -202,9 +202,8 @@ checksum = "6456b8a6c8f33fee7d958fcd1b60d55b11940a79e63ae87013e6d22e26034440"
 
 [[package]]
 name = "hyper"
-version = "0.14.8"
-source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "d3f71a7eea53a3f8257a7b4795373ff886397178cd634430ea94e12d7fe4fe34"
+version = "99.99.99"
+source = "git+https://github.com/guswynn/hyper?branch=drop#953713369a20900d06619c53a1d16b208ac2b44b"
 dependencies = [
  "bytes",
  "futures-channel",
